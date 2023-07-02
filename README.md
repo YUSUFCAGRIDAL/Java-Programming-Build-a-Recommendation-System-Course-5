@@ -1,7 +1,7 @@
 # Java Programming Build a Recommendation System
 This course is offered at <a href="https://www.coursera.org">Coursera</a> and is part of the <a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals</a>.
 
-This is the final course of the Specialization, <a href="[https://www.coursera.org/learn/duke-programming-web?specialization=java-programming](https://www.coursera.org/learn/java-programming-recommender?specialization=java-programming)">Link to the course</a>.
+This is the final course of the Specialization, <a href="https://www.coursera.org/learn/duke-programming-web?specialization=java-programming](https://www.coursera.org/learn/java-programming-recommender?specialization=java-programming">Link to the course</a>.
 
 <hr>
 
